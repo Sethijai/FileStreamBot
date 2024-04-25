@@ -6,6 +6,7 @@ class LANG(object):
     START_TEXT = """
 <b>👋 Hᴇʏ, </b>{}\n 
 <b>I'ᴍ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇs sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴀs ᴡᴇʟʟ ᴅɪʀᴇᴄᴛ ʟɪɴᴋs ɢᴇɴᴇʀᴀᴛᴏʀ</b>\n
+<b>I am developed by YOUR HACKHEIST 🥰</b>\n
 <b>ᴡᴏʀᴋɪɴɢ ᴏɴ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ</b>\n
 <b>💕 @{}</b>\n"""
 
@@ -13,14 +14,13 @@ class LANG(object):
 <b>- ᴀᴅᴅ ᴍᴇ ᴀs ᴀɴ ᴀᴅᴍɪɴ ᴏɴ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ</b>
 <b>- sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅᴏᴄᴜᴍᴇɴᴛ ᴏʀ ᴍᴇᴅɪᴀ</b>
 <b>- ɪ'ʟʟ ᴘʀᴏᴠɪᴅᴇ sᴛʀᴇᴀᴍᴀʙʟᴇ ʟɪɴᴋ</b>\n
-<b>🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ.</b>\n
-<i><b> ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ <a href='https://telegram.me/AvishkarPatil'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b></i>"""
-
+<b>🔞 ᴀᴅᴜʟᴛ ᴄᴏɴᴛᴇɴᴛ sᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ.ɪꜰ ʏᴏᴜ ꜱᴇɴᴅ ᴀɴʏ ᴛʜᴇꜱᴇ ᴛʏᴘᴇ ᴏꜰ ᴄᴏɴᴛᴇᴄᴛ ᴡᴇ ʙᴀɴ ʏᴏᴜ ꜰᴏʀ ꜰᴏʀᴇᴠᴇʀ</b>\n
+<i><b> ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴛᴏ <a href='https://t.me/talktoHACKHEIST_BOT'>𝗛𝗔𝗖𝗞𝗛𝗘𝗜𝗦𝗧</a></b></i>"""
     ABOUT_TEXT = """
 <b>⚜ ᴍʏ ɴᴀᴍᴇ : {}</b>\n
 <b>✦ ᴠᴇʀsɪᴏɴ : {}</b>
-<b>✦ ᴜᴘᴅᴀᴛᴇᴅ ᴏɴ : 06-January-2024</b>
-<b>✦ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AvishkarPatil'>Avishkar Patil</a></b>\n
+<b>✦ For More : @OPMASTERLECTURE</b>
+<b>✦ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/talktoHACKHEIST_BOT'>HACKHEIST</a></b>\n
 """
 
     STREAM_TEXT = """
@@ -36,8 +36,8 @@ class LANG(object):
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <b>{}</b>\n
 <b>📦 Fɪʟᴇ ꜱɪᴢᴇ :</b> <code>{}</code>\n
 <b>📥 Dᴏᴡɴʟᴏᴀᴅ :</b> <code>{}</code>\n
-<b>🔗 Sʜᴀʀᴇ :</b> <code>{}</code>\n"""
-
+<b>🔗 Sʜᴀʀᴇ :</b> <code>{}</code>\n
+<b>⚠️NOTE :- ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ɴᴇᴠᴇʀ ᴇxᴘɪʀᴇ ᴛɪʟʟ ɪ ᴅᴏɴ'ᴛ ᴅᴇʟᴇᴛᴇ</b>\n"""
 
     BAN_TEXT = "__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id={}) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
 
