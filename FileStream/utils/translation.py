@@ -20,8 +20,7 @@ class LANG(object):
 <b>⚜ ᴍʏ ɴᴀᴍᴇ : {}</b>\n
 <b>✦ ᴠᴇʀsɪᴏɴ : {}</b>
 <b>✦ For More : @OPMASTERLECTURE</b>
-<b>✦ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/talktoHACKHEIST_BOT'>HACKHEIST</a></b>\n
-"""
+<b>✦ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/talktoHACKHEIST_BOT'>HACKHEIST</a></b>\n"""
 
     STREAM_TEXT = """
 <i><u>𝗬𝗼𝘂𝗿 𝗟𝗶𝗻𝗸 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 !</u></i>\n
