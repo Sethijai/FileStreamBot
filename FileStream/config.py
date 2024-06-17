@@ -20,8 +20,8 @@ class Telegram:
     START_PIC = env.get('START_PIC', "https://telegra.ph/file/5fa3f9f5fcd8240148eb0.jpg")
     VERIFY_PIC = env.get('VERIFY_PIC', "https://telegra.ph/file/bd21f0b96f8af58016488.jpg")
     MULTI_CLIENT = False
-    FLOG_CHANNEL = int(env.get("-1002138960289", None))   # Logs channel for file logs
-    ULOG_CHANNEL = int(env.get("-1002128449830", None))   # Logs channel for user logs
+    FLOG_CHANNEL = int(env.get("FLOG_CHANNEL", -1002138960289))   # Logs channel for file logs
+    ULOG_CHANNEL = int(env.get("ULOG_CHANNEL", -1002128449830))   # Logs channel for user logs
     MODE = env.get("MODE", "primary")
     SECONDARY = True if MODE.lower() == "secondary" else False
     AUTH_USERS = list(set(int(x) for x in str(env.get("AUTH_USERS", "")).split()))
