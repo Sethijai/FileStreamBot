@@ -21,19 +21,9 @@ class LANG(object):
 <b>✦ ᴠᴇʀsɪᴏɴ : {}</b>
 <b>✦ For More :<a href='https://t.me/addlist/rMLA4niKz9xjYjg1'>𝕁𝕆𝕀ℕ 𝔸𝔻𝔻𝕃𝕀𝕊𝕋</a></b>
 <b>✦ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/talktoHACKHEIST_BOT'>HACKHEIST</a></b>\n"""
-    STREAM_TEXT = """
-<b>File Name :</b> <b>{}</b>\n
-<b>File Size :</b> <code>{}</code>\n
-<b>Download :</b> <code>{}</code>\n
-<b>Watch :</b> <code>{}</code>\n
-<b>Share :</b> <code>{}</code>\n"""
+    STREAM_TEXT = """<code>{}</code>\n"""
 
-    STREAM_TEXT_X = """
-<b>File Name :</b> <b>{}</b>\n
-<b>File Size :</b> <code>{}</code>\n
-<b>Download :</b> <code>{}</code>\n
-<b>Watch :</b> <code>{}</code>\n
-<b>Share :</b> <code>{}</code>\n"""
+    STREAM_TEXT_X = """<code>{}</code>\n"""
     BAN_TEXT = "__Sᴏʀʀʏ Sɪʀ, Yᴏᴜ ᴀʀᴇ Bᴀɴɴᴇᴅ ᴛᴏ ᴜsᴇ ᴍᴇ.__\n\n**[Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ](tg://user?id={}) Tʜᴇʏ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ**"
 
 
